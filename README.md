@@ -1,1 +1,1 @@
-Public Machine Learning datasets
+Publicly available Machine Learning datasets
