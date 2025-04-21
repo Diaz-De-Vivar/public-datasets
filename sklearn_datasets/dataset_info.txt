@@ -1,0 +1,53 @@
+SCIKIT-LEARN DATASET COLLECTION
+===============================
+
+Created on: 2025-04-15 14:33:05
+
+Total storage used: 135.48 MB
+
+
+Built-in Datasets
+-----------------
+  - breast_cancer.csv (0.12 MB)
+  - breast_cancer.joblib (0.08 MB)
+  - diabetes.csv (0.09 MB)
+  - diabetes.joblib (0.02 MB)
+  - digits.csv (0.47 MB)
+  - digits.joblib (0.17 MB)
+  - iris.csv (0.00 MB)
+  - iris.joblib (0.00 MB)
+  - wine.csv (0.01 MB)
+  - wine.joblib (0.01 MB)
+
+Generated Datasets
+------------------
+  - blobs.csv (0.38 MB)
+  - blobs.joblib (0.15 MB)
+  - blobs_raw.npz (0.15 MB)
+  - circles.csv (0.41 MB)
+  - circles.joblib (0.15 MB)
+  - circles_raw.npz (0.15 MB)
+  - classification.csv (3.72 MB)
+  - classification.joblib (1.49 MB)
+  - classification_raw.npz (1.48 MB)
+  - moons.csv (0.40 MB)
+  - moons.joblib (0.15 MB)
+  - moons_raw.npz (0.15 MB)
+  - regression.csv (3.93 MB)
+  - regression.joblib (1.55 MB)
+  - regression_raw.npz (1.54 MB)
+  - swiss_roll.csv (0.72 MB)
+  - swiss_roll.joblib (0.29 MB)
+  - swiss_roll_raw.npz (0.29 MB)
+
+Fetched Datasets
+----------------
+  - 20newsgroups.csv (13.40 MB)
+  - 20newsgroups.joblib (6.03 MB)
+  - 20newsgroups_texts.txt (1.01 MB)
+  - california_housing.csv (1.83 MB)
+  - california_housing.joblib (0.62 MB)
+  - lfw_people.csv (56.00 MB)
+  - lfw_people.joblib (18.43 MB)
+  - olivetti_faces.csv (16.30 MB)
+  - olivetti_faces.joblib (3.78 MB)
